@@ -1,0 +1,8 @@
+#Organize Import Order
+#Sat Jul 16 23:58:35 JST 2016
+5=javax
+4=java
+3=org
+2=jp
+1=com
+0=org.specript
