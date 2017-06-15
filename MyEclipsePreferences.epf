@@ -1,4 +1,4 @@
-#Wed May 31 19:45:38 JST 2017
+#Thu Jun 15 23:28:17 JST 2017
 /instance/com.powerflasher.fdt.ui/AS_RETURN_color_italic=false
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.formatter.insert_new_line_after_label=do not insert
 /instance/com.powerflasher.fdt.ui/CHARACTER_color_italic=false
@@ -328,6 +328,7 @@
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.formatter.alignment_for_superinterfaces_in_type_declaration=0
 /instance/org.eclipse.jdt.ui/cleanup.remove_unnecessary_nls_tags=true
 @org.eclipse.e4.ui.css.swt.theme=0.9.300.v20141126-1957
+/instance/org.eclipse.jdt.ui/command=/Library/Java/JavaVirtualMachines/jdk1.8.0_40.jdk/Contents/Home/bin/javadoc
 /instance/org.scala-ide.sdt.core/syntaxColouring.semantic.methodParam.colour=0,128,128
 /instance/com.adobe.flexide.css.core/cssSelectorStrikethrough=false
 /instance/de.walware.statet.base.ui/editors/options/Parameters.foreground=248,248,242
@@ -972,7 +973,7 @@
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.formatter.alignment_for_throws_clause_in_method_declaration=0
 /instance/com.powerflasher.fdt.ui/AS_CONSTANTS_color_underline=false
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.formatter.insert_space_before_opening_brace_in_method_declaration=insert
-/instance/org.eclipse.debug.ui/org.eclipse.debug.ui.user_view_bindings=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?>\n<viewBindings>\n<view id\="org.eclipse.debug.ui.VariableView">\n<perspective id\="org.eclipse.debug.ui.DebugPerspective" userAction\="closed"/>\n</view>\n<view id\="org.eclipse.debug.ui.DebugView">\n<perspective id\="org.eclipse.debug.ui.DebugPerspective" userAction\="closed"/>\n</view>\n<view id\="org.eclipse.debug.ui.ExpressionView">\n<perspective id\="org.eclipse.debug.ui.DebugPerspective" userAction\="opened"/>\n</view>\n<view id\="org.eclipse.debug.ui.BreakpointView">\n<perspective id\="org.eclipse.debug.ui.DebugPerspective" userAction\="opened"/>\n</view>\n<view id\="org.eclipse.ui.console.ConsoleView">\n<perspective id\="org.eclipse.debug.ui.DebugPerspective" userAction\="closed"/>\n</view>\n</viewBindings>\n
+/instance/org.eclipse.debug.ui/org.eclipse.debug.ui.user_view_bindings=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?>\n<viewBindings>\n<view id\="org.eclipse.debug.ui.VariableView">\n<perspective id\="org.eclipse.debug.ui.DebugPerspective" userAction\="closed"/>\n</view>\n<view id\="org.eclipse.debug.ui.DebugView">\n<perspective id\="org.eclipse.debug.ui.DebugPerspective" userAction\="closed"/>\n</view>\n<view id\="org.eclipse.debug.ui.ExpressionView">\n<perspective id\="org.eclipse.debug.ui.DebugPerspective" userAction\="opened"/>\n</view>\n<view id\="org.eclipse.debug.ui.BreakpointView">\n<perspective id\="org.eclipse.debug.ui.DebugPerspective" userAction\="opened"/>\n</view>\n<view id\="org.eclipse.ui.console.ConsoleView">\n<perspective id\="org.eclipse.debug.ui.DebugPerspective" userAction\="opened"/>\n</view>\n</viewBindings>\n
 /instance/com.adobe.flexide.as.core/asASDocBold=false
 /instance/org.scala-ide.sdt.core/syntaxColouring.semantic.caseObject.colour=0,64,128
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.formatter.insert_space_before_comma_in_multiple_field_declarations=do not insert
@@ -1137,8 +1138,8 @@ file_export_version=3.0
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.formatter.insert_space_between_brackets_in_array_type_reference=do not insert
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.formatter.join_wrapped_lines=false
 /instance/com.adobe.flexide.mxml.core/mxmlTagBold=false
+/configuration/org.eclipse.ui.ide/RECENT_WORKSPACES=/Users/kou/Projects/Specript3\n/Users/kou/Projects/workspace1\n/Users/kou/Projects/SNTest\n/Users/kou/Projects/Tests\n/Users/kou/Projects/Templates/ScalaJavaMixture
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.formatter.insert_new_line_in_empty_enum_declaration=insert
-/configuration/org.eclipse.ui.ide/RECENT_WORKSPACES=/Users/kou/Projects/Specript3\n/Users/kou/Projects/SNTest\n/Users/kou/Projects/Tests\n/Users/kou/Projects/Templates/ScalaJavaMixture\n/Users/kou/Projects/RCOTest1
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.formatter.insert_space_after_comma_in_method_declaration_parameters=insert
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.formatter.insert_space_before_opening_paren_in_try=insert
 /instance/org.sweetlemonade.eclipse.json/colorKeyEnabled=true
